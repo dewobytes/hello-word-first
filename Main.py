@@ -1,1 +1,1 @@
-print("awal mula cuk")
+print("first Python")
